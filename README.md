@@ -1,5 +1,6 @@
 # Course_Registrar
 using an array of linear linked lists
+
 Program reflects a basic University registrar, where each student's class schedule is represented as a linear linked list, and the entire student body is represented as an array. Overall, the data in this program is structured as an array of linear linked lists.
 
 Students class uses an inner Student class. Student ID test data is hardcoded in the demo program.
